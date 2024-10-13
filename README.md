@@ -2,9 +2,15 @@
 
 https://www.figma.com/design/gyTK18yEAKDpr3FSzd5fIw/%EC%8B%A4%EC%8A%B51?node-id=2-3&t=YbNyxYZ5O7OgjcdW-1
 
+소셜 로그인 및 아이디 찾기(휴대폰 인증), 비밀번호 찾기(이메일 인증)
+관련 시크릿키 비어있는 상태임
+
 --테스트시 유저용 아이디 및 비밀번호
 아이디: uio 비밀번호: uio
 아이디: asdf 비밀번호: asdf
+
+-- 차단 확인용 아이디 및 비밀번호
+아이디: bnm 비밀번호: bnm
 
 -- 관리자용 아이디 및 비밀번호
 아이디: admin 비밀번호: 1234

@@ -1,6 +1,7 @@
 # finalproject_pr
 
 https://www.figma.com/design/gyTK18yEAKDpr3FSzd5fIw/%EC%8B%A4%EC%8A%B51?node-id=2-3&t=YbNyxYZ5O7OgjcdW-1
+--------------------------------진행중인 프로젝트입니다
 
 소셜 로그인 및 아이디 찾기(휴대폰 인증), 비밀번호 찾기(이메일 인증)
 관련 시크릿키 비어있는 상태임
